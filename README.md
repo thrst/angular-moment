@@ -1,6 +1,8 @@
 angular-moment
 ==============
 
+# This is a fork of the real angular-moment to be able to use it with webpack and require.
+
 AngularJS directive and filters for [Moment.JS](http://www.momentjs.com).
 
 Copyright (C) 2013, 2014, 2015, 2016, Uri Shaked <uri@urish.org>
